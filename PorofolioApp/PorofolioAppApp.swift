@@ -11,7 +11,7 @@ import SwiftUI
 struct PorofolioAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PortfolioView()
         }
     }
 }
